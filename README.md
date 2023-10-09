@@ -1,6 +1,6 @@
 # Non-Exchangeable Conformal Risk Control
 
-Official implementation of **Non-Exchangeable Conformal Risk Control**.
+Official implementation of [Non-Exchangeable Conformal Risk Control](https://arxiv.org/abs/2310.01262).
 
 **Abstract**:
 
@@ -9,3 +9,16 @@ _Split conformal prediction has recently sparked great interest due to its abili
 ## Acknowledgments
 
 The code in this repository is based on the implementations of [Barber et al. (2023)](https://rinafb.github.io/) and [Angelopoulos et al. (2023)](https://github.com/aangelopoulos/conformal-risk).
+
+## Citation
+
+```
+@misc{farinhas2023nonexchangeable,
+    title={Non-Exchangeable Conformal Risk Control},
+    author={António Farinhas and Chrysoula Zerva and Dennis Ulmer and André F. T. Martins},
+    year={2023},
+    eprint={2310.01262},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+```
